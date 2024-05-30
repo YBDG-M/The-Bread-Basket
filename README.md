@@ -233,4 +233,4 @@ Dengan ini kita dapat menarik kesimpulan bahwa toko ini dapat menerapkan diskon 
 
 ## Deployment
 
-Link Streamlit: 
+Link Streamlit: https://the-bread-basket.streamlit.app/
